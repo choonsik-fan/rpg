@@ -1,0 +1,20 @@
+{
+  "name": "rpg",
+  "version": "1.0.0",
+  "description": "roll-playing game with node.js at command-line",
+  "keywords": [
+    "rpg",
+    "game",
+    "cli"
+  ],
+  "license": "MIT",
+  "author": "choonsik-fan",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@types/node": "^24.3.0",
+    "eventemitter3": "^5.0.1"
+  }
+}
